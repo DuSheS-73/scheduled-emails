@@ -1,3 +1,10 @@
 <Solution>
-  <Project Path="ScheduledEmails/ScheduledEmails.csproj" />
+  <Folder Name="/src/" />
+  <Folder Name="/src/BuildingBlocks/">
+    <Project Path="src/BuildingBlocks/Domain/Domain.csproj" Id="0220835c-5fe5-4396-8620-42408475adf9" />
+  </Folder>
+  <Folder Name="/src/Services/">
+    <Project Path="src/Services/Emails.Write.Api/Emails.Write.Api.csproj" Id="7cdff796-477f-4b6f-9162-8527aa014136" />
+  </Folder>
+  <Folder Name="/tests/" />
 </Solution>
