@@ -1,7 +1,9 @@
 <Solution>
   <Folder Name="/src/" />
   <Folder Name="/src/BuildingBlocks/">
+    <Project Path="src/BuildingBlocks/Application/Application.csproj" Id="d8bf0393-9d7d-4aaa-aa3f-3dcd9b6640a8" />
     <Project Path="src/BuildingBlocks/Domain/Domain.csproj" Id="0220835c-5fe5-4396-8620-42408475adf9" />
+    <Project Path="src/BuildingBlocks/Infrastructure/Infrastructure.csproj" Id="2ca9fbf5-a893-41b7-88c3-896d4b4dfa33" />
   </Folder>
   <Folder Name="/src/Services/">
     <Project Path="src/Services/Emails.Write.Api/Emails.Write.Api.csproj" Id="7cdff796-477f-4b6f-9162-8527aa014136" />
