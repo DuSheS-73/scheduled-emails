@@ -6,6 +6,7 @@
     <Project Path="src/BuildingBlocks/Infrastructure/Infrastructure.csproj" Id="2ca9fbf5-a893-41b7-88c3-896d4b4dfa33" />
   </Folder>
   <Folder Name="/src/Services/">
+    <Project Path="src/Services/Emails.Sender.Worker/Emails.Sender.Worker.csproj" Id="c114f7a3-e26d-451d-8a4d-8146b3fffc00" />
     <Project Path="src/Services/Emails.Write.Api/Emails.Write.Api.csproj" Id="7cdff796-477f-4b6f-9162-8527aa014136" />
   </Folder>
   <Folder Name="/tests/" />
