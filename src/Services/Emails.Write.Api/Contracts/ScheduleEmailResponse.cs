@@ -1,3 +1,3 @@
 ﻿namespace Emails.Write.Api.Contracts;
 
-public sealed record ScheduleEmailResponse(string Id, DateTimeOffset ScheduledAt);
+public sealed record ScheduleEmailResponse(Guid Id, DateTimeOffset ScheduledAt);

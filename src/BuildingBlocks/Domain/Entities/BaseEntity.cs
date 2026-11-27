@@ -2,5 +2,5 @@
 
 public abstract class BaseEntity
 {
-    public string Id { get; private set; } = Guid.NewGuid().ToString();
+    public Guid Id { get; private set; } = Guid.NewGuid();
 }
